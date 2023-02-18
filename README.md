@@ -1,2 +1,2 @@
-# Trademax
+#  TradeMax Academy
  
