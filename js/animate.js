@@ -17,5 +17,5 @@ function reveal() {
   window.addEventListener("scroll", reveal);
 
   function nav(){
-    window.open('http://www.trademaxacademy.com/assets/docs/Brochure-Final.pdf', '_blank');
+    window.open('https://www.trademaxacademy.com/assets/docs/Brochure-Final.pdf', '_blank');
   }
